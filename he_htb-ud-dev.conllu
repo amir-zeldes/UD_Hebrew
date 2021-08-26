@@ -740,7 +740,7 @@
 20-21	ב50	_	_	_	_	_	_	_	SpaceAfter=No
 20	ב	ב	ADP	ADP	_	22	case	_	_
 21	50	50	NUM	NUM	_	22	nummod	_	_
-22	%	%	NOUN	NOUN	Gender=Masc|Number=Plur,Sing	10	obl	_	SpaceAfter=No
+22	%	%	SYM	SYM	Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
 23	.	.	PUNCT	PUNCT	_	10	punct	_	_
 
 # sent_id = 21
@@ -4044,7 +4044,7 @@
 35	משכנע	שכנע	VERB	VERB	Gender=Masc|HebBinyan=PIEL|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	34	amod	_	_
 36	של	של	ADP	ADP	Case=Gen	38	case	_	_
 37	10	10	NUM	NUM	_	38	nummod	_	SpaceAfter=No
-38	%	%	NOUN	NOUN	Gender=Masc|Number=Plur,Sing	34	nmod	_	SpaceAfter=No
+38	%	%	SYM	SYM	Gender=Masc|Number=Sing	34	nmod	_	SpaceAfter=No
 39	.	.	PUNCT	PUNCT	_	15	punct	_	_
 
 # sent_id = 115
@@ -4424,7 +4424,7 @@
 34-35	ב20	_	_	_	_	_	_	_	SpaceAfter=No
 34	ב	ב	ADP	ADP	_	36	case	_	_
 35	20	20	NUM	NUM	_	36	nummod	_	_
-36	%	%	NOUN	NOUN	Gender=Masc|Number=Plur,Sing	30	obl	_	SpaceAfter=No
+36	%	%	SYM	SYM	Gender=Masc|Number=Sing	30	obl	_	SpaceAfter=No
 37	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
 # sent_id = 124
@@ -6204,7 +6204,7 @@
 # sent_id = 184
 # text = 51% מכספי הקרנות מופנים לפעילויות תרבותיות.
 1	51	51	NUM	NUM	_	2	nummod	_	SpaceAfter=No
-2	%	%	NOUN	NOUN	Gender=Masc|Number=Plur,Sing	7	nsubj:pass	_	_
+2	%	%	SYM	SYM	Gender=Masc|Number=Sing	7	nsubj:pass	_	_
 3-4	מכספי	_	_	_	_	_	_	_	_
 3	מ	מ	ADP	ADP	_	4	case	_	_
 4	כספי	כסף	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	2	nmod	_	_
@@ -9340,7 +9340,7 @@
 # text = רק 35% מהם הצביעו ביום ג בבחירות לקונגרס ולמושלי המדינות.
 1	רק	רק	ADV	ADV	_	3	advmod	_	_
 2	35	35	NUM	NUM	_	3	nummod	_	SpaceAfter=No
-3	%	%	NOUN	NOUN	Gender=Masc|Number=Plur,Sing	6	nsubj	_	_
+3	%	%	SYM	SYM	Gender=Masc|Number=Sing	6	nsubj	_	_
 4-5	מהם	_	_	_	_	_	_	_	_
 4	מ	מן	ADP	ADP	_	5	case	_	_
 5	הם	הוא	PRON	PRON	Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nmod	_	_
@@ -9399,7 +9399,7 @@
 7-8	מ20	_	_	_	_	_	_	_	SpaceAfter=No
 7	מ	מ	ADP	ADP	_	6	fixed	_	_
 8	20	20	NUM	NUM	_	9	nummod	_	_
-9	%	%	NOUN	NOUN	Gender=Masc|Number=Plur,Sing	3	nsubj	_	_
+9	%	%	SYM	SYM	Gender=Masc|Number=Sing	3	nsubj	_	_
 10-11	מבעלי	_	_	_	_	_	_	_	_
 10	מ	מ	ADP	ADP	_	11	case	_	_
 11	בעלי	בעל	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	9	nmod	_	_
@@ -9887,7 +9887,7 @@
 5	יתרון	יתרון	NOUN	NOUN	Gender=Masc|Number=Sing	3	nsubj	_	_
 6	עד	עד	ADP	ADP	_	8	case	_	_
 7	9	9	NUM	NUM	_	8	nummod	_	SpaceAfter=No
-8	%	%	NOUN	NOUN	Gender=Masc|Number=Plur,Sing	3	obl	_	SpaceAfter=No
+8	%	%	SYM	SYM	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
 9	,	,	PUNCT	PUNCT	_	15	punct	_	_
 10-12	ובמסצוסטס	_	_	_	_	_	_	_	_
 10	ו	ו	CCONJ	CCONJ	_	15	cc	_	_
@@ -10939,7 +10939,7 @@
 18-19	ב90	_	_	_	_	_	_	_	SpaceAfter=No
 18	ב	ב	ADP	ADP	_	20	case	_	_
 19	90	90	NUM	NUM	_	20	nummod	_	_
-20	%	%	NOUN	NOUN	Gender=Masc|Number=Plur,Sing	17	dep	_	_
+20	%	%	SYM	SYM	Gender=Masc|Number=Sing	17	dep	_	_
 21-22	מזה	_	_	_	_	_	_	_	_
 21	מ	מ	ADP	ADP	_	22	case	_	_
 22	זה	זה	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obl	_	_
@@ -12407,7 +12407,7 @@
 7	יתרון	יתרון	NOUN	NOUN	Gender=Masc|Number=Sing	4	obl	_	_
 8	של	של	ADP	ADP	Case=Gen	10	case	_	_
 9	9	9	NUM	NUM	_	10	nummod	_	SpaceAfter=No
-10	%	%	NOUN	NOUN	Gender=Masc|Number=Plur,Sing	7	nmod:poss	_	SpaceAfter=No
+10	%	%	SYM	SYM	Gender=Masc|Number=Sing	7	nmod:poss	_	SpaceAfter=No
 11	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = 381
